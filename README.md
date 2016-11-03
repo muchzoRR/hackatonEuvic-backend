@@ -1,2 +1,4 @@
-# hackatonEuvic-backend
+# hackatonEuvic - backend
 Chillout Hackathon - 04.11.2016/05.11.2016
+
+
